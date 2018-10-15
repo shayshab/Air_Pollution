@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Blood Bank Management System</string>
+    <color name="white">#FFFFFF</color>
+    <color name="darkGray">#333333</color>
+    <color name="gray1">#eeeeee</color>
+    <color name="gray2">#dddddd</color>
+    <color name="darkGreen">#2ECC71</color>
+    <color name="red">#EC7063</color>
+
+    <string-array name="blood_group">
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="age_group">
+        <item>0-10</item>
+        <item>10-20</item>
+        <item>20-30</item>
+        <item>30-40</item>
+        <item>40-50</item>
+        <item>50-60</item>
+        <item>60-70</item>
+        <item>70+</item>
+    </string-array>
+
+    <string-array name="india_states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string-array name="wb_city">
+        <item>Kolkata</item>
+        <item>Asansol</item>
+        <item>Siliguri</item>
+        <item>Durgapur</item>
+        <item>Bardhaman</item>
+        <item>Malda</item>
+        <item>Baharampur</item>
+        <item>Habra</item>
+        <item>Kharagpur</item>
+        <item>Shantipur</item>
+        <item>Dankuni</item>
+        <item>Dhulian</item>
+        <item>Ranaghat</item>
+        <item>Haldia</item>
+        <item>Raiganj</item>
+        <item>Krishnanagar</item>
+        <item>Nabadwip</item>
+        <item>Medinipur</item>
+        <item>Jalpaiguri</item>
+        <item>Balurghat</item>
+        <item>Basirhat</item>
+        <item>Bankura</item>
+        <item>Chakdaha</item>
+        <item>Darjeeling</item>
+        <item>Alipurduar</item>
+        <item>Purulia</item>
+        <item>Jangipur</item>
+        <item>Bangaon</item>
+        <item>Coach Behar</item>
+    </string-array>
+</resources>

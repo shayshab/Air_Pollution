@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>

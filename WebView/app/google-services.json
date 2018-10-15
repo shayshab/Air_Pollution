@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020191369424",
+    "firebase_url": "https://shahed-webview.firebaseio.com",
+    "project_id": "shahed-webview",
+    "storage_bucket": "shahed-webview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020191369424:android:1cba9d7048ac0b49",
+        "android_client_info": {
+          "package_name": "com.example.shays.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020191369424-eglmacrcp31f3eldf41a69sbnmbk7b5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shays.webview",
+            "certificate_hash": "64718edfa2e5f2341106f4b681369f30a66e880c"
+          }
+        },
+        {
+          "client_id": "1020191369424-9q0i4l6iha4tvvuv4ej4bk8p6ur7f9ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1f4L646ygtDG0jD_y8Z-JuZtMS-Zzc_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020191369424-9q0i4l6iha4tvvuv4ej4bk8p6ur7f9ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

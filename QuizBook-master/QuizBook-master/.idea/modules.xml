@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QuizBook-master.iml" filepath="$PROJECT_DIR$/QuizBook-master.iml" />
+      <module fileurl="file://C:\Users\shays\Documents\QuizBook-master\QuizBook-master\RelativLayoutJava.iml" filepath="C:\Users\shays\Documents\QuizBook-master\QuizBook-master\RelativLayoutJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\shays\Documents\QuizBook-master\QuizBook-master\app\app.iml" filepath="C:\Users\shays\Documents\QuizBook-master\QuizBook-master\app\app.iml" />
+    </modules>
+  </component>
+</project>

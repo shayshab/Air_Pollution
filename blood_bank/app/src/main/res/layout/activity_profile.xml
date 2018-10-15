@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.6"
+            android:layout_height="wrap_content"
+            android:text="Hi, Rizwan"
+            android:textSize="20sp"
+            android:textColor="@color/darkGray"
+            android:padding="10sp"
+            android:id="@+id/hi_user"/>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="0.1"
+            android:layout_height="match_parent"
+            android:src="@drawable/list"
+            android:onClick="getMyDonars"
+            android:padding="5sp"/>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="0.1"
+            android:layout_height="match_parent"
+            android:onClick="logout"
+            android:src="@drawable/logout32x32"
+            android:padding="5sp"/>
+
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="180sp"
+        android:layout_height="wrap_content"
+        android:text="Donate Blood"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:drawableTop="@drawable/donate_hand"
+        android:layout_gravity="center"
+        android:background="@color/darkGreen"
+        android:padding="5sp"
+        android:layout_marginTop="10sp"
+        android:onClick="donate"/>
+
+    <Button
+        android:layout_width="180sp"
+        android:layout_height="wrap_content"
+        android:text="Need Blood"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:background="@color/darkGreen"
+        android:padding="5sp"
+        android:layout_marginTop="10sp"
+        android:drawableTop="@drawable/blood_donation128x128"
+        android:onClick="needBlood" />
+
+
+
+
+
+</LinearLayout>
